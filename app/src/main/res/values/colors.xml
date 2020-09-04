@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorPrimaryLight">#CFD8DC</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="transparent_button">#E1FFFFFF</color>
+    <color name="colorPrimaryPix">#607D8B</color>
+    <color name="colorPrimaryLightPix">#455A64</color>
+
+    <!--Image Picker Customization-->
+    <color name="tb_media_picker_primary">#FFFFFF</color>
+    <color name="tb_media_picker_primaryDark">#707070</color>
+    <color name="tb_media_picker_accent">#2AE2FF</color>
+
+    <color name="tb_media_picker_toolbar_text">#000000</color>
+    <color name="tb_media_picker_toolbar_counter_text">#000000</color>
+    <color name="tb_media_picker_toolbar_counter_background">#eeeeee</color>
+</resources>

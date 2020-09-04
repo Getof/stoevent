@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Ежедневник СТО</string>
+    <string name="title_activity_events">EventsActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_stat">Статистика</string>
+    <string name="menu_exit">Выйти</string>
+    <string name="menu_push">Push-уведомления</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="material_calendar_monday">ПН</string>
+    <string name="material_calendar_tuesday">ВТ</string>
+    <string name="material_calendar_wednesday">СР</string>
+    <string name="material_calendar_thursday">ЧТ</string>
+    <string name="material_calendar_friday">ПТ</string>
+    <string name="material_calendar_saturday">СБ</string>
+    <string name="material_calendar_sunday">ВС</string>
+
+    <array name="material_calendar_months_array">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </array>
+
+    <string name="material_calendar_today_button">Текущая Дата</string>
+    <string name="material_calendar_positive_button">Выбрать</string>
+    <string name="material_calendar_negative_button">Отмена</string>
+
+    <string name="selection_limiter_pix">Нельзя выбрать больше %d фото.</string>
+    <string name="message_to_drag_up">Проведите вверх для входа в галерею</string>
+    <string name="pix_ok">Выбрать</string>
+    <string name="pix_tap_to_select">Кликните на фото для выбора</string>
+    <string name="pix_selected">Выбрано</string>
+    <string name="pix_recent">Вернуться</string>
+    <string name="pix_last_month">За последний месяц</string>
+    <string name="pix_last_week">За последнюю неделю</string>
+    <string name="cannot_click_image_pix">Нельзя добавить больше %s фото</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="fcm_message">Новое событие в календаре</string>
+    <string name="msg_subscribed">Подписаны на уведомления</string>
+    <string name="msg_subscribe_failed">Ошибка подписки</string>
+</resources>

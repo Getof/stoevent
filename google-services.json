@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601773647306",
+    "firebase_url": "https://stolite-760fd.firebaseio.com",
+    "project_id": "stolite-760fd",
+    "storage_bucket": "stolite-760fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601773647306:android:5493742b38009ba2011b33",
+        "android_client_info": {
+          "package_name": "ru.getof.stoevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601773647306-b09jvdauoc2t9ld6md8fuaa85r75n8bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbQZLbRTThpg7lJEQrLaMuyATIot6fF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601773647306-b09jvdauoc2t9ld6md8fuaa85r75n8bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
